@@ -18,6 +18,6 @@ Dataset that we use in this study is based on travel insurance data obtained fro
 **EverTravelledAbroad**- Has The Customer Ever Travelled To A Foreign Country
 \
 **TravelInsurance**- Did The Customer Buy Travel Insurance Package During Introductory Offering Held In The Year 2019
-\
+
 #### Results
 We compared KNN, SVM, Random Forest and logistic regression to classify customers behavior on a travel insurance dataset of 9 features and found KNN as the best with 81% precision and 98% recall on validation
