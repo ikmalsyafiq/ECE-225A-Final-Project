@@ -1,7 +1,6 @@
 # Travel-Insurance-ML
 
-The aim of this project is to predict whether a person will buy a travel insurance or not based on factors such age,employment type, graduate, annual income, number of family members, chronic diseases, frequent flyer and ever travelled abroad.\
-The study includes analysis of the variables, pre-processing of the data and also prediction based on SVM, KNN and Random Forest algorithms.\
+The aim of this project is to predict whether a person will buy a travel insurance or not based on factors such age,employment type, graduate, annual income, number of family members, chronic diseases, frequent flyer and ever travelled abroad. The study includes analysis of the variables, pre-processing of the data and also prediction based on SVM, KNN and Random Forest algorithms.\
 \
 Intuitively we predict that the factors like **annual income, frequent flyers, and employment type** will have high correlation with travel insurance purchase. For example, people with higher income will be more likely to buy travel insurance compared to people with lower income.
 
